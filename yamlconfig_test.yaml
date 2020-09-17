@@ -1,0 +1,14 @@
+# COMMENT
+
+HOST: "127.0.0.1" 
+PORT: 10
+SETTING:
+  redis:
+    db: 13
+    host: 127.0.0.1:6379
+    name: DATA
+    password: PASS
+    prefix: WEIBO
+URL: GOOGLE.COM
+START: 2020-1-1
+
